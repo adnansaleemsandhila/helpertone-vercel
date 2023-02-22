@@ -110,6 +110,7 @@
     "react-draft-wysiwyg/draftjs-utils/immutable": "4.2.2",
     "@emotion/react/@emotion/babel-plugin/@babel/core": "7.0.0",
     "@emotion/react/@emotion/babel-plugin/@babel/plugin-syntax-jsx/@babel/core": "7.0.0"
+    "react-credit-cards/prop-types": "15.7.2"
   },
   "overrides": {
     "react-credit-cards": {
